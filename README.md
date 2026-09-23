@@ -4,16 +4,21 @@ I am a fourth-year Computer Science student at Florida International University 
 
 ## Technical Skills
 
-- **Languages:** Swift, Python
-- **Development:** Xcode, SwiftUI, Streamlit
-- **Version Control:** Git and GitHub
-- **Collaboration:** Google Docs and team-based development
+- **Programming Languages:** C, Python, Java, JavaScript, HTML, CSS, Swift
 
-## Current Projects
+## Projects
 
-- Contributing to a Swift application through an internship, where I work with interfaces, application logic, data models, and databases.
-- Developing **What's The Move**, an application designed to help users discover activities and businesses.
-- Improving my Python skills through class projects involving dashboards and AI tools.
+### What's The Move
+- Contributing to a mobile application as a Software Engineer Intern using Swift.
+- Working with interfaces, application logic, data models, databases, and GitHub.
+
+### Lockdown Log Analyzer
+- Built a cybersecurity tool using Python, Flask, Regex, JavaScript, and HTML/CSS.
+- Analyzes authentication logs and detects repeated failed login attempts and foreign IP addresses.
+
+### Mario's Tires Inc. Website
+- Designed and deployed a responsive business website using HTML, CSS, and JavaScript.
+- Added interactive visuals, scroll animations, and multilingual support.
 
 ## Interests
 
@@ -26,4 +31,3 @@ I am a fourth-year Computer Science student at Florida International University 
 ## Career Goals
 
 My goal is to continue developing my programming and problem-solving skills while gaining experience in professional development teams. I am interested in opportunities where I can contribute to useful software, learn from other developers, and grow in web development or cybersecurity.
-
